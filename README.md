@@ -8,7 +8,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 💬 Ask me about **React(Redux), Node(Express), Python(NumPy, Pandas, Flask, Django), Java**
+- 💬 Ask me about **React(Redux), Node(Express), Python(NumPy, Pandas, Flask, Django), Java, SQL.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
