@@ -6,6 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KingAyussh1&label=Profile%20views&color=0e75b6&style=flat" alt="KingAyussh1" /> </p>
 
+- 😄 Pronouns: He/Him
+
+- 💬 Ask me about **React(Redux), Node(Express), Python(NumPy, Pandas, Flask, Django), Java**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ayussh-gupta-0718411b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayussh gupta" height="30" width="40" /></a>
