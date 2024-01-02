@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayussh Gupta</h1>
-<h3 align="center">Software Enthusiast and a passionate Full-Stack Developer from India</h3>
+<h3 align="center">✨Software Enthusiast and a passionate Full-Stack Developer from India✨</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" ></img>
@@ -8,7 +8,9 @@
 
 - 😄 Pronouns: He/Him
 
-- 💬 Ask me about **React(Redux), Node(Express), Python(NumPy, Pandas, Flask, Django), Java, SQL.**
+- 💬 Ask me about: **React(Redux), Node(Express), Python(NumPy, Pandas, Flask, Django), Java, SQL.**
+
+- ⚡ Interests: I am interested in watching documentaries, being current on politics, and learning new programming languages to advance my career as a Software Development Engineer (SDE) in a renowned software organization.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
