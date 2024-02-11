@@ -17,6 +17,20 @@
 <a href="https://www.linkedin.com/in/ayussh-gupta-0718411b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayussh gupta" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">👨‍💻 Some of the projects I have worked recently:</h3>
+
+- 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/Yatharth0045/terraform-quickstart)
+
+- 📦 React Budget Allocation Application using Redux -[GitHub](https://github.com/KingAyussh1/React-Budget-Allocation-Application-Using-Redux.git)
+
+- 📦 Friends List Application Using Express Server with JWT - [GitHub](https://github.com/KingAyussh1/Friends-List-Application-Using-Express-Server-with-JWT.git)
+
+- 📦 NLP-Sentiment-Analysis using Python(Flask) - [GitHub](https://github.com/KingAyussh1/NLP-Sentiment-Analysis-Using-Python-Flask.git)
+
+- 📦 Online Course App using Django - [GitHub](https://github.com/KingAyussh1/Online-Course-App-using-Django.git)
+
+- 📦 Build and Deploy Simple Guestbook App using Docker and Kubernetes - [GitHub](https://github.com/KingAyussh1/Build-and-Deploy-Simple-Guestbook-App.git)
+
 <h3 align="left">🧾 Certifications I have Accomplished:</h3>
 
 - 🎖 Java - [HackerRank](https://www.hackerrank.com/certificates/a0c4f5940e21)
