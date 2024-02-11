@@ -8,7 +8,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 💬 Ask me about: **React(Redux), Node(Express), Python(NumPy, Pandas, Flask, Django), Java, SQL.**
+- 💬 Ask me about: **Java, SQL, React.js(Redux), Node.js(Express.js), Python(NumPy, Pandas, Flask, Django).**
 
 - ⚡ Interests: I am interested in watching documentaries, being current on politics, and learning new programming languages to advance my career as a Software Development Engineer (SDE) in a renowned software organization.
 
