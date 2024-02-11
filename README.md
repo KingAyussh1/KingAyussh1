@@ -19,8 +19,6 @@
 
 <h3 align="left">👨‍💻 Some of the projects I have worked recently:</h3>
 
-- 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/Yatharth0045/terraform-quickstart)
-
 - 📦 React Budget Allocation Application using Redux -[GitHub](https://github.com/KingAyussh1/React-Budget-Allocation-Application-Using-Redux.git)
 
 - 📦 Friends List Application Using Express Server with JWT - [GitHub](https://github.com/KingAyussh1/Friends-List-Application-Using-Express-Server-with-JWT.git)
