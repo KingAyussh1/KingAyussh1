@@ -17,6 +17,24 @@
 <a href="https://www.linkedin.com/in/ayussh-gupta-0718411b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayussh gupta" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">🧾 Certifications I have Accomplished:</h3>
+
+- 🎖 Java - [HackerRank](https://www.hackerrank.com/certificates/a0c4f5940e21)
+
+- 🎖 AWS Academy Graduate - AWS Academy Cloud Architecting (https://www.credly.com/badges/d8de4527-0fa2-4e5a-911d-86a5d91e144c/linked_in_profile)
+
+- 🎖 Introduction to Web Development with HTML, CSS, JavaScript - [IBM](https://www.coursera.org/account/accomplishments/records/K4WC47YYR6AZ)
+
+- 🎖 Developing Front-End Apps with React - [IBM](https://www.coursera.org/account/accomplishments/records/KRRWYSK5TMVM)
+
+- 🎖 Developing Back-End Apps with Node.js and Express - [IBM](https://www.coursera.org/account/accomplishments/records/GCLWNXJFL2ZM)
+
+- 🎖 Developing AI Applications with Python and Flask - [IBM](https://www.coursera.org/account/accomplishments/records/GZRYP9WFF5W9)
+
+- 🎖 Django Application Development with SQL and Databases - [IBM](https://www.coursera.org/account/accomplishments/records/DMCZTUFA8YZL)
+
+- 🎖 Introduction to Containers w/ Docker, Kubernetes & OpenShift - [IBM](https://www.coursera.org/account/accomplishments/records/A2EZXT2498LA)
+
 <h3 align="left">Programming Language Stack:</h3>
 <p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css3" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="bootstrap" width="40" height="40"/> </p>
 
