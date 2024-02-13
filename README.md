@@ -6,9 +6,7 @@
     Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Ayussh Gupta
 </h1>
 
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;Software+Enthusiast+and+a+passionate+Full+Stack+Developer+from+India." alt="Welcome to my GitHub Profile. ✨Software Enthusiast and a passionate Full-Stack Developer from India✨" />
-</p>
+<h3 align="center">✨Software Enthusiast and a passionate Full-Stack Developer from India✨</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" ></img>
 
