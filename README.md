@@ -2,9 +2,7 @@
     <img src="./assets/greetings.gif" alt="Hello World" />
 </p>
 
-<h1 align="center">
-    Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Ayussh Gupta
-</h1>
+<h1 align="center">Hi 👋, I'm Ayussh Gupta</h1>
 
 <h3 align="center">✨Software Enthusiast and a passionate Full-Stack Developer from India✨</h3>
 
