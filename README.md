@@ -10,7 +10,7 @@
 
 - 🏢 I’m currently working as **SAP BASIS Consultant.**
 
-- 💬 Ask me about: **Java, SQL, React.js(ES6, JSX & Redux), Node.js(Express.js & JWT), Python(Flask, Django), Docker & Kubernetes.**
+- 💬 Ask me about: **Java, SQL, React.js(ES6, JSX & Redux), Node.js(Express.js & JWT), Python(Flask, Django), REST, Docker, Kubernetes, Microservices and Serverless Application.**
 
 - ⚡ Interests: I am interested in watching documentaries, being current on politics, and learning new programming languages to advance my career as a Software Development Engineer (SDE) in a renowned software organization.
 
