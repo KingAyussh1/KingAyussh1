@@ -81,14 +81,21 @@
 <h3 align="left">IDE I ♥:</h3>
 <p align="left"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
+<h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
+    Stats:
+</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KingAyussh1&show_icons=true&locale=en&layout=compact" alt="KingAyussh1" /></p>
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KingAyussh1&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="KingAyussh1" />
+</p>
 
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-stats.vercel.app/api?username=KingAyussh1&show_icons=true&locale=en&theme=gruvbox" alt="KingAyussh1" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KingAyussh1&show_icons=true&locale=en" alt="KingAyussh1" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KingAyussh1&" alt="KingAyussh1" /></p>
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingAyussh1&theme=gruvbox" alt="KingAyussh1" />
+</p>
 
 <!--
 **KingAyussh1/KingAyussh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
