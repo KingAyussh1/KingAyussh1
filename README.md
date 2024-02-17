@@ -21,6 +21,8 @@
 
 <h3 align="left">👨‍💻 Some of the projects I have worked recently:</h3>
 
+- 📦 Car Dealerships Full Stack Application - [GitHub](https://github.com/KingAyussh1/Car-Dealerships-Full-Stack-Application.git)
+
 - 📦 React Budget Allocation Application using Redux -[GitHub](https://github.com/KingAyussh1/React-Budget-Allocation-Application-Using-Redux.git)
 
 - 📦 Friends List Application Using Express Server with JWT - [GitHub](https://github.com/KingAyussh1/Friends-List-Application-Using-Express-Server-with-JWT.git)
@@ -34,6 +36,8 @@
 - 📦 Microservices based Serverless Application - [GitHub](https://github.com/KingAyussh1/Microservices-based-Serverless-Application.git)
 
 <h3 align="left">🧾 Certifications I have Accomplished:</h3>
+
+- 🎖 Full Stack Cloud Development Capstone Project - [IBM](https://www.coursera.org/account/accomplishments/records/DSTVN9727RJU)
 
 - 🎖 Java - [HackerRank](https://www.hackerrank.com/certificates/a0c4f5940e21)
 
