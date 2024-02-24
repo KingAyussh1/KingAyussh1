@@ -10,7 +10,9 @@
 
 - 🏢 I’m currently working as **SAP BASIS Consultant.**
 
-- 💬 Ask me about: **Java, SQL, React.js(ES6, JSX & Redux), Node.js(Express.js & JWT), Python(Flask, Django), REST, Docker, Kubernetes, Microservices and Serverless Application.**
+- ⭐ **Certified in IBM Full Stack Developer Professional Course.**
+
+- 💬 Ask me about: **Java, SQL, React.js(ES6 & Redux), Node.js(Express.js & JWT), Python(Flask, Django), RESTAPI, MySQL, Docker & Kubernetes, Microservices and Serverless Application.**
 
 - ⚡ Interests: I am interested in watching documentaries, being current on politics, and learning new programming languages to advance my career as a Software Development Engineer (SDE) in a renowned software organization.
 
@@ -36,6 +38,10 @@
 - 📦 Microservices based Serverless Application - [GitHub](https://github.com/KingAyussh1/Microservices-based-Serverless-Application.git)
 
 <h3 align="left">🧾 Certifications I have Accomplished:</h3>
+
+- 🎖 IBM Full Stack Software Developer Specialization - [IBM](https://www.coursera.org/account/accomplishments/specialization/69LJCQDPLAEE)
+
+- 🎖 Full Stack Software Developer Assessment - [IBM](https://www.coursera.org/account/accomplishments/records/TV5LMXAH8PHS)
 
 - 🎖 Full Stack Cloud Development Capstone Project - [IBM](https://www.coursera.org/account/accomplishments/records/DSTVN9727RJU)
 
