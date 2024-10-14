@@ -12,7 +12,7 @@
 
 - ⭐ **Certified in IBM Full Stack Developer Professional Course.**
 
-- 💬 Ask me about: **Java, SQL, React.js(ES6 & Redux), Node.js(Express.js & JWT), Python(Django), RESTAPI, MySQL, Docker & Kubernetes, Microservices and Serverless Application.**
+- 💬 Ask me about: **Java, SQL, React.js(ES6 & Redux), Node.js(Express.js & JWT), RESTAPI, MySQL, Docker & Kubernetes, Microservices and Serverless Application.**
 
 - ⚡ Interests: I am interested in watching documentaries, being current on politics, and learning new programming languages to advance my career as a Software Development Engineer (SDE) in a renowned software organization.
 
