@@ -8,7 +8,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 🏢 I’m currently working as **SAP BASIS Consultant.**
+- 🏢 I have 1.5 yr of experience as a **SAP BASIS Consultant.**
 
 - ⭐ **Certified in IBM Full Stack Developer Professional Course.**
 
