@@ -8,11 +8,11 @@
 
 - 😄 Pronouns: He/Him
 
-- 🏢 I have 1.5 yr of experience as a **SAP BASIS Consultant.**
+- 🏢 I have 1.5 yr of experience as a **oftware Engineer - SAP Basis**
 
 - ⭐ **Certified in IBM Full Stack Developer Professional Course.**
 
-- 💬 Ask me about: **Java, SQL, React.js(ES6 & Redux), Node.js(Express.js & JWT), RESTAPI, MySQL, Docker & Kubernetes, Microservices and Serverless Application.**
+- 💬 Ask me about: **Java, SQL, React.js(ES6 & Redux), Java Back-End, RESTAPI, MySQL, Docker & Kubernetes, Microservices and Serverless Application.**
 
 - ⚡ Interests: I am interested in watching documentaries, being current on politics, and learning new programming languages to advance my career as a Software Development Engineer (SDE) in a renowned software organization.
 
