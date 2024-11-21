@@ -8,7 +8,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 🏢 I have 1.5 yr of experience as a **oftware Engineer - SAP Basis**
+- 🏢 I have 1.5 yr of experience as a **Software Engineer**
 
 - ⭐ **Certified in IBM Full Stack Developer Professional Course.**
 
