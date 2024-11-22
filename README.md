@@ -23,6 +23,8 @@
 
 <h3 align="left">👨‍💻 Some of the projects I have worked recently:</h3>
 
+- 📦 Secure Online Book Store Api - [GitHub](https://github.com/KingAyussh1/Secure_Online_Book_Store_API.git)
+
 - 📦 Car Dealerships Full Stack Application - [GitHub](https://github.com/KingAyussh1/Car-Dealerships-Full-Stack-Application.git)
 
 - 📦 React Budget Allocation Application using Redux -[GitHub](https://github.com/KingAyussh1/React-Budget-Allocation-Application-Using-Redux.git)
